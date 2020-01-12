@@ -1,0 +1,60 @@
+Base path: 'C:/buildslave/unity/build/build/WindowsEditor/Data', plugins path ''
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=33379 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=63366 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=36140 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=66051 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=15264 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=48516 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=47233 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=57833 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=98233 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=25750 outsize=13735 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=25750 outsize=16121 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1326 outsize=620 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=7442 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13624 outsize=4058 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2643 outsize=1197 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1834 outsize=1067 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=21554 outsize=14055 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7247 outsize=7203 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3022 outsize=2047 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7918 outsize=695 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20668 outsize=95086 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=36515 outsize=32395 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=36515 outsize=31493 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17606 outsize=7333 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5065 outsize=1808 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9814 outsize=4225 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7700 outsize=4339 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3918 outsize=885 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17632 outsize=668 ok=1

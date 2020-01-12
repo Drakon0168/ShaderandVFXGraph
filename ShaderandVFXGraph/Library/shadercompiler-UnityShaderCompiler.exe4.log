@@ -1,0 +1,60 @@
+Base path: 'C:/buildslave/unity/build/build/WindowsEditor/Data', plugins path ''
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=18610 outsize=4952 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=113975 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=32144 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=22344 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=65847 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=68532 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=25750 outsize=15377 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=25750 outsize=324 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=9146 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11912 outsize=1307 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7423 outsize=6491 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3092 outsize=1991 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1940 outsize=1220 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=21554 outsize=15324 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8644 outsize=4857 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2553 outsize=2594 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2905 outsize=1860 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20668 outsize=95091 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=36515 outsize=31493 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=36515 outsize=32395 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5477 outsize=1267 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17606 outsize=7333 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5065 outsize=1297 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8970 outsize=4969 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3043 outsize=2697 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9814 outsize=2460 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7700 outsize=5715 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17632 outsize=635 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=19711 outsize=445 ok=1
