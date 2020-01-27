@@ -9,7 +9,7 @@ public class Dissolve : MonoBehaviour
 
     private int dissolveDirection = -1;
     private float dissolveAmount = 1;
-    private string dissolveReference = "Vector1_A89ABD58";
+    private string dissolveReference = "Vector1_5E0EE44E";
     private Material dissolveMaterial;
 
     private void Awake()
